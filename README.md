@@ -1,5 +1,5 @@
-# RatRig-Vcore-3.1-Klipper-config
-
+Hardware:
+```
 300*300*300
 Manta M8P + CB1 + TMC2209
 EBB42 via USB
@@ -8,3 +8,4 @@ Sherpa Mini
 KlipperScreen
 4pin fan for drivers
 Bltouch
+```
