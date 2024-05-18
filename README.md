@@ -7,5 +7,5 @@ Sherpa Mini
 KlipperScreen
 4pin fan for drivers
 Bltouch
-SFS2
+SFS2 (disabled)
 ```
